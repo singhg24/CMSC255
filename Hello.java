@@ -1,3 +1,12 @@
+/*
+* Hello Java Program - Lab 1
+**********************************************************
+* Description: Lab 1 practice setting up things
+------------------------------------------------------
+* Gurumanpreet Singh
+* 8/21/19
+* CMSC 255-002 */
+
 public class Hello {
 	public static void printHeading(){
 		System.out.println("Gurumanpreet Singh");
